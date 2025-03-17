@@ -60,6 +60,12 @@ Update to the latest version if recommended:
 python.exe -m pip install --upgrade pip
 ~~~~
 
+### Run the Python script
+
+~~~~cli
+python.exe chat.py
+~~~~
+
 ## System prompt
 
 Use or generate a good system prompt, as here:  
