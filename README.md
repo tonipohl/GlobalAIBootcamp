@@ -1,0 +1,2 @@
+# GlobalAIBootcamp
+GlobalAIBootcamp resources
