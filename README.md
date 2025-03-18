@@ -11,6 +11,7 @@ Follow these step-by-step instructions to run the samples from Azure AI Foundry 
 - https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/copilot-sdk-create-resources?tabs=windows
 - Azure CLI docs: https://learn.microsoft.com/en-us/cli/azure/authenticate-azure-cli-interactively
 - OpenAI Python API library: https://github.com/openai/openai-python/tree/main
+- Sample product data: https://github.com/microsoft/aitour-concept-to-creation-ai-studio/tree/main/src/data/products 
 
 ### Sign-in
 
